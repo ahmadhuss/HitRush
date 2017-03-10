@@ -4,10 +4,10 @@ Hit Rush is an Android 2d game made in unity3d for android.
 ![snap1](/Assets/preview images/inlineSreen.jpg)
 
 In this game there is paddle that is moving left & right you need to hit
-the paddle with soccer ball. When you play this game you need a focus for hit. Tap the screen anywhere than soccer ball will jump to
+the paddle with soccer ball. When you play this game you need a focus for hit. Tap the screen anywhere than soccer ball will jump towards
 upward direction for hitting the paddle!
 
-There is only two chances and if soccer ball doesn't hit the paddle your chance is gone. Also a Score title is given for high Score. 
+There is only two chances and if soccer ball doesn't hit the paddle your chance is gone. Also a Score title is given for high Scores. 
 Some clouds are moving left and right side, Don't hit the clouds!
 
 You can bet your score with any friend!
